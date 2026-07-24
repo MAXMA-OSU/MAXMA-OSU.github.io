@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuangxiu (Max) Ma"
-description              : "Homepage of Shuangxiu (Max) Ma, Ph.D. candidate in Chemical Engineering at The Ohio State University. Molecular simulation, polymer recycling, machine learning, and quantum-assisted optimization."
+description              : "My heart is in the work (or video games)"
 repository               : "MAXMA-OSU/MAXMA-OSU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuangxiu (Max) Ma"
   avatar           : "images/max.jpg"
-  bio              : "Ph.D. Candidate, Chemical Engineering"
-  location         : "Columbus, OH, USA"
-  employer         : "The Ohio State University"
+  bio              : "Ph.D. Candidate, Chemical Engineering working on simulating funny things"
+  location         : "Cleveland, OH, USA"
+  employer         : "?"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-p6Mj9EAAAAJ&hl"
   email            : "ma.2061@osu.edu"
