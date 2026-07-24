@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shuangxiu (Max) Ma, a Ph.D. candidate in the [William G. Lowrie Department of Chemical and Biomolecular Engineering](https://cbe.osu.edu/) at The Ohio State University, co-advised by Prof. Li-Chiang Lin (OSU / National Taiwan University) and Prof. Bhavik R. Bakshi (Arizona State University). I also completed a graduate minor in Computer Science and Engineering (machine learning track) at OSU.
+I am Shuangxiu (Max) Ma, a Ph.D. from the [William G. Lowrie Department of Chemical and Biomolecular Engineering](https://cbe.osu.edu/) at The Ohio State University, co-advised by Prof. Li-Chiang Lin (OSU / National Taiwan University) and Prof. Bhavik R. Bakshi (Arizona State University). I also completed a graduate minor in Computer Science and Engineering (machine learning track) at OSU.
 
-My research sits at the intersection of molecular simulation, sustainability, and computational optimization. I develop multiscale simulation workflows — GCMC, classical and reactive molecular dynamics (ReaxFF), and QM/DFT — to connect atomistic mechanisms to macroscopic properties in polymers and porous materials, with applications in plastics recycling, olefin/paraffin separation membranes, and circular-economy process design. I also build machine-learning and Bayesian-optimization loops for materials screening, and hybrid quantum–classical optimization frameworks for multi-objective circular-economy problems.
+My Ph.D research sits at the intersection of molecular simulation, sustainability, and computational optimization. I develop multiscale simulation workflows — GCMC, classical and reactive molecular dynamics (ReaxFF), QM/MM and QM/DFT — to connect atomistic mechanisms to macroscopic properties in polymers and porous materials, with applications in plastics recycling, olefin/paraffin separation membranes, and circular-economy process design. I also build machine-learning and Bayesian-optimization loops for materials screening, and hybrid quantum–classical optimization frameworks for multi-objective circular-economy problems.
 
 My current interests include: design and simulation of complex DNA origami, reverse design of complex bio/polymer structures, machine-learning methods and benchmarks for optimization problems, and simulation pipelines for complex bio/chem systems.
 
@@ -27,6 +27,7 @@ I have published papers with total <a href='https://scholar.google.com/citations
 
 
 # 🔥 News
+- *2026.07*: &nbsp;💼 Will be getting on board for a postdoc postion soon
 - *2025.11*: &nbsp;🎉 Three presentations at the 2025 AIChE Annual Meeting on PET degradation and sustainable process synthesis.
 - *2025.07*: &nbsp;💼 Started a research/strategy internship at Mitsubishi Chemical Group (Japan) & The Global KAITEKI Center (USA).
 
@@ -40,6 +41,7 @@ I have published papers with total <a href='https://scholar.google.com/citations
 Please see my full, up-to-date publication list on my <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>Google Scholar profile</a> <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🗣 Presentations
+- See, I really love AICHE!!
 - S. Ma, B. Bakshi, L.-C. Lin. *Theoretical Assessment of PET Pyrolysis via Reactive Molecular Dynamics Simulation and Kinetic Modeling.* 2023 AIChE Annual Meeting.
 - S. Ma, L.-C. Lin, B. Bakshi. *Exploring the Mechanism and Potential of Polystyrene–Zeolites Co-Pyrolysis System for Enhancing Styrene Recycling: A Molecular Dynamics Study.* 2024 AIChE Annual Meeting.
 - S. Ma, P. Pereira, L.-C. Lin, P. E. Savage, B. Bakshi. *Understanding PET Fast Hydrolysis via Reactive Molecular Dynamics Simulation and Experimental Investigation.* 2025 AIChE Annual Meeting.
