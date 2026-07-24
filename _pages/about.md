@@ -23,7 +23,7 @@ My Ph.D research sits at the intersection of molecular simulation, sustainabilit
 
 My current interests include: design and simulation of complex DNA origami, reverse design of complex bio/polymer structures, machine-learning methods and benchmarks for optimization problems, and simulation pipelines for complex bio/chem systems.
 
-I have published papers with total <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a> (h-index: 14).
+I have published papers with total <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a> (h-index: 14)
 
 
 # 🔥 News
@@ -38,7 +38,7 @@ I have published papers with total <a href='https://scholar.google.com/citations
 
 # 📝 Publications
 
-Please see my full, up-to-date publication list on my <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>Google Scholar profile</a> <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>.
+Please see my full, up-to-date publication list on my <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>Google Scholar profile</a> <a href='https://scholar.google.com/citations?user=-p6Mj9EAAAAJ'>
 # 🗣 Presentations
 - See, I really love AICHE!!
 - S. Ma, B. Bakshi, L.-C. Lin. *Theoretical Assessment of PET Pyrolysis via Reactive Molecular Dynamics Simulation and Kinetic Modeling.* 2023 AIChE Annual Meeting.
