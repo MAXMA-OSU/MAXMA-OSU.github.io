@@ -37,7 +37,7 @@ I have published papers with total <a href='[https://scholar.google.com/citation
 
 # 📝 Publications
 
-Please see my full, up-to-date publication list on my <a href='https://scholar.google.com/citations?user=tjls-loAAAAJ'>Google Scholar profile</a> <a href='https://scholar.google.com/citations?user=tjls-loAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Please see my full, up-to-date publication list on my <a href='[https://scholar.google.com/citations?user=tjls-loAAAAJ](https://scholar.google.com/citations?user=-p6Mj9EAAAAJ&hl=en)'>Google Scholar profile</a> <a href='https://scholar.google.com/citations?user=tjls-loAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🗣 Presentations
 - S. Ma, B. Bakshi, L.-C. Lin. *Theoretical Assessment of PET Pyrolysis via Reactive Molecular Dynamics Simulation and Kinetic Modeling.* 2023 AIChE Annual Meeting.
