@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Shuangxiu (Max) Ma"
+description              : "Homepage of Shuangxiu (Max) Ma, Ph.D. candidate in Chemical Engineering at The Ohio State University. Molecular simulation, polymer recycling, machine learning, and quantum-assisted optimization."
+repository               : "MAXMA-OSU/maxma-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  name             : "Shuangxiu (Max) Ma"
+  avatar           : "images/max.jpg"
+  bio              : "Ph.D. Candidate, Chemical Engineering"
+  location         : "Columbus, OH, USA"
+  employer         : "The Ohio State University"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=tjls-loAAAAJ"
+  email            : "ma.2061@osu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://people.engineering.osu.edu/people/ma.2061"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MAXMA-OSU"
   google_plus      :
   keybase          :
   instagram        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
