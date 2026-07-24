@@ -27,7 +27,7 @@ I have published papers with total <a href='https://scholar.google.com/citations
 
 
 # 🔥 News
-- *2026.07*: &nbsp;💼 Will be getting on board for a postdoc postion soon
+- *2026.07*: &nbsp;💼 Will be getting on board for a postdoc postion soon.
 - *2025.11*: &nbsp;🎉 Three presentations at the 2025 AIChE Annual Meeting on PET degradation and sustainable process synthesis.
 - *2025.07*: &nbsp;💼 Started a research/strategy internship at Mitsubishi Chemical Group (Japan) & The Global KAITEKI Center (USA).
 
